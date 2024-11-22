@@ -1,0 +1,515 @@
+{
+    "slides": [
+        {
+          
+            "title": "Craving some flexibility?",
+            "description": "Explore thousands of highly-rated courses with Personal Plan.",
+            "buttonText": "Start free week",
+            "image": "/assets/slider1.jpg"
+          },
+      {
+        "title": "Go on, make a wish",
+        "description": "Did you know you can wishlist the courses you’re interested in? Just click the heart button.",
+        "image": "/assets/slider2.jpg"
+      },
+      {
+        "title": "It’s the big day",
+        "description": "Today’s your anniversary of learning with us. Here’s to many, many more.",
+        "image": "/assets/slider3.jpg"
+      }
+    ],
+    "learningSection": [
+      {
+        "courseTitle": "English Fluency for ESL/EFL",
+        "lessonTitle": "1. Introduction",
+        "lecture": "Lecture",
+        "duration": "1m",
+        "image": "/assets/english-course.jpg"
+      },
+      {
+        "courseTitle": "Front End Web Development Ultimate Guide",
+        "lessonTitle": "1. Welcome",
+        "lecture": "Lecture",
+        "duration": "12m",
+        "image": "/assets/web-development-course.jpg"
+      },
+      {
+        "courseTitle": "Learn Bootstrap - For Beginners",
+        "lessonTitle": "1. Introduction to Bootstrap",
+        "lecture": "Lecture",
+        "duration": "2m",
+        "image": "/assets/bootstrap-course.jpg"
+      },
+      {
+        "courseTitle": "The Web Front End and Learning Guide",
+        "lessonTitle": "37. Gradients",
+        "lecture": "Lecture",
+        "duration": "8m",
+        "image": "/assets/frontend-course.jpg"
+      }
+    ],
+    
+        "recommended": [
+          {
+            "id": "Advanced React",
+            "title": "Advanced React: Design System, Design Patterns, State Management",
+            "instructor": "CodeLicks Academy",
+            "rating": 4.5,
+            "learners": "554",
+            "price": "£249.99",
+            "originalPrice": "£1,199.99",
+            "image": "/assets/advanced-react.jpg",
+            "description":"Become Senior in React JS by Gaining in-depth expertise in Design Systems, Design Patterns, Performance, Typescript etc.",
+            "whatYouWillLearn": [
+              "Go from junior/intermediate frontend developer to senior developer",
+              "Design and develop enterprise-level design systems",
+              "Understand and use TypeScript with React",
+              "Learn advanced component patterns and optimization",
+              "Optimize the performance of your React applications",
+              "Learn to develop React applications the React way",
+              "Master memoization and render optimization",
+              "Understand when to use controlled vs uncontrolled components"
+            ],
+            "hours": "27",
+             "resources": "145 "
+          },
+          {
+            "id": "Practical Next.js & React",
+            "title": "Practical Next.js & React - Build a real WebApp with Next.js",
+            "instructor": "Nick Ovchinnikov",
+            "rating": 4.7,
+            "learners": "348",
+            "price": "£249.99",
+            "originalPrice": "£799.99",
+            "image": "/assets/nextjs-practical.jpg",
+            "description":"Build Fullstack WebApp with Next.js, React, and Strapi backend. Storybook components library. Practical Next.js & React",
+            "whatYouWillLearn": [
+             "Learn core NextJS pre-rendering, SSR, data fetching, routing",
+             "Create real projects with unique components library, styled-components and Storybook",
+             "Learn how to build fullstack ReactJS apps with NextJS",
+             "The latest ecosystem of a NextJS from the ground",
+             "Create a backend with Strapi and learn fullstack development with NextJS"
+            ],
+             "hours": "20",
+             "resources": "102 "
+
+          },
+          {
+            "id": "React Crash Course",
+            "title": "React Crash Course: From Zero to Hero.....",
+            "instructor": "Anton Voroniuk, Dmytro Vasylliev",
+            "rating": 4.4,
+            "learners": "359",
+            "price": "£249.99",
+            "originalPrice": "£799.99",
+            "image": "/assets/react-crash-course.jpg",
+            "description":"Mastering queries, mutations, integration with auth, testing and more",
+            "whatYouWillLearn": [
+             " React Query version 5 queries, mutations, and cache control",
+             "Using React Query for pagination, infinite scroll, and optimistic updates",
+             "Integrating React Query with Authentication",
+             " Testing React Query"
+            ],
+             "hours": "30",
+             "resources": "234 "
+          },
+          {
+            "id": "Advanced React Enterprise",
+            "title": "Advanced React For Enterprise: React for senior engineers",
+            "instructor": "Frantz Kati",
+            "rating": 4.2,
+            "learners": "2220",
+            "price": "£249.99",
+            "originalPrice": "£699.99",
+            "image": "/assets/advanced-react-enterprise.jpg",
+            "description":"Master React and Redux. Apply modern design patterns to build apps with React Router, TailwindCSS, Context, and Hooks!",
+            "whatYouWillLearn": [
+             "Create dynamic web apps using the latest in web technology",
+             "Acquire the programming skills needed to obtain a software engineering job",
+             "Practice your skills with many large projects, exercises, and quizzes",
+             "Implement client-side navigation and routing using React Router for seamless multi-page user experiences",
+             "Leverage the power of TypeScript with React for safer coding practices and reducing runtime errors",
+             "Master form handling techniques, including robust validation patterns to improve user input experience"
+            ],
+             "hours": "100",
+             "resources": "345 "
+
+          },
+          {
+            "id": "Hands-On React",
+            "title": "Hands-On React. Build advanced React JS Frontend",
+            "instructor": "Nick Ovchinnikov",
+            "rating": 4.4,
+            "learners": "474",
+            "price": "£249.99",
+            "originalPrice": "£899.99",
+            "image": "/assets/hands-on-react.jpg",
+            "description":"Build reusable React components without relying on if statements or more props! Use hooks & trusted advanced patterns!",
+            "whatYouWillLearn": [
+              "Understand why design patterns are important and not just relying on if statements and more props",
+              "You will no longer be or feel like a Junior/Intermediate React Developer",
+              "Learn by mimicking real world examples by leveraging the popular Medium clap",
+              "Understand custom hooks deeply. How they work and their invocation order"
+            ],
+             "hours": "50",
+             "resources": "165 "
+          },
+          {        
+            "id": "React JS Portfolio",
+            "title": "React JS Portfolio Project - React Training for Beginners",
+            "instructor": "Oleksandr Kocherhin",
+            "rating": 4.5,
+            "learners": "931",
+            "price": "£249.99",
+            "originalPrice": "£399.99",
+            "image": "/assets/react-portfolio.jpg",
+            "description":"Build React JS Portfolio Project and Deploy React Project to Production With My React Training for Beginners",
+             "whatYouWillLearn": [
+              "Build React JS Portfolio Project",
+              "Write high quality code",
+              "Understand React state management",
+              "Learn React in real React training for beginners"
+            ],
+             "hours": "92",
+             "resources": "136"
+          },
+          {       
+            "id": "The Ultimate React JS Course 2024",
+            "title": "The Ultimate React JS Course 2024: Start from Scratch",
+            "instructor": "Code Bless You",
+            "rating": 4.5,
+            "learners": "696",
+            "price": "£249.99",
+            "originalPrice": "£399.99",
+            "image": "/assets/ultimate-react-course.jpg",
+            "description":"Master Redux from scratch with Redux core, Redux-toolkit, react-redux library. Latest Redux course 2023",
+            "whatYouWillLearn": [
+              "Modern way to write Redux code using Redux-toolkit",
+              "Calling API using best methods",
+              "Mistakes to avoid while writing redux code",
+              "Write clean code like a pro",
+              "Debug application using Redux devTools",
+              "Best folder structure for maintaining Redux code"
+            ],
+             "hours": "100",
+             "resources": "160"
+          }
+      
+        ],
+        "viewed": [
+          {  
+            "id": "NodeJS Tutorial and Projects Course from Scratch",
+            "title": "NodeJS Tutorial and Projects Course from Scratch",
+            "instructor": "John Smilga",
+            "rating": 4.8,
+            "learners": "3,745",
+            "price": "£249.99",
+            "originalPrice": "£1,699.99",
+            "image": "/assets/nodejs-tutorial.jpg",
+            "description":"Learn Node.js by building real-world applications with Node JS, Express, MongoDB, Jest, and more!",
+            "whatYouWillLearn": [
+              "Completely refilmed for 3rd edition",
+              "Build, test, and launch Node apps",
+              "Create Express web servers and APIs",
+              "Store data with Mongoose and MongoDB",
+              "Use cutting-edge ES6/ES7 JavaScript",
+              "Deploy your Node apps to production",
+              "Create real-time web apps with SocketIO"
+            ],
+            "hours": "80",
+             "resources": "142"
+
+          },
+          {  
+            "id": "Learn and Understand NodeJS",
+            "title": "Learn and Understand NodeJS from Scratch",
+            "instructor": "Anthony Alicea",
+            "rating": 4.6,
+            "learners": "30,089",
+            "price": "£449.99",
+            "originalPrice": "£2,999.99",
+            "image": "/assets/learn-nodejs.jpg",
+            "description":"Dive deep under the hood of NodeJS. Learn V8, Express, the MEAN stack, core Javascript concepts, and more.",
+            "whatYouWillLearn": [
+             " Grasp how NodeJS works under the hood",
+              "Understand the Javascript and technical concepts behind NodeJS",
+              "Structure a Node application in modules",
+              "Understand and use the Event Emitter",
+              "Understand Buffers, Streams, and Pipes",
+              "Build a Web Server in Node and understand how it really works",
+              "Use npm and manage node packages",
+              "Build a web application and API more easily using Express"
+            ],
+            "hours": "40",
+             "resources": "210"
+
+          },
+          {  
+            "id": "Advanced Concepts of NodeJS",
+            "title": "Node JS: Advanced Concepts of NodeJS...",
+            "instructor": "Stephen Grider",
+            "rating": 4.7,
+            "learners": "10,363",
+            "price": "£449.99",
+            "originalPrice": "£2,999.99",
+            "image": "/assets/node-advanced-concepts.jpg",
+            "description":"Get advanced with Node.Js! Learn caching with Redis, speed up through clustering, and add image upload with S3 and Node!",
+            "whatYouWillLearn": [
+              "Absolutely master the Event Loop and understand each of its stages",
+              "Utilize Worker Threads and Clustering to dramatically improve the performance of Node servers",
+              "Speed up database queries with caching for MongoDB backed by Redis",
+              "Add automated browser testing to your Node server, complete with continuous integration pipeline setup",
+              "Apply scalable image and file upload to your app, utilizing AWS S3"
+            ],
+            "hours": "200",
+             "resources": "420"
+          },
+          {  
+            "id": "The Complete Guide  of NodeJS",
+            "title": "NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno, + more)",
+            "instructor": "Academind by Maximilian Schwarzmüller",
+            "rating": 4.6,
+            "learners": "49,847",
+            "price": "£249.99",
+            "originalPrice": "£1,699.99",
+            "image": "/assets/node-complete-guide.jpg",
+            "bestseller": true,
+            "description":"Learn Node.js and Javascript the Fast and Easy Way With This Popular Bundle Course!",
+            "whatYouWillLearn": [
+              "Javascript From Beginner To Advanced",
+               "Node From Beginner To Advanced",
+               "Javascript Variables, Numbers, and Math",
+               "Conditional If/Else & Comparisons",
+               "While and For Loops",
+               "Arrays, Objects, and Functions",
+               "How To Create a Simple Node Web Server",
+               "How to Use Git Version Control",
+               "How to use Github .com",
+               "How To Use MySQL Databases With Node"
+            ],
+            "hours": "20",
+             "resources": "100"
+          },
+          {  
+            "id": "Understanding Node.js",
+            "title": "Understanding Node.js: Core Concepts......",
+            "instructor": "Joseph Heidari",
+            "rating": 4.7,
+            "learners": "986",
+            "price": "£249.99",
+            "originalPrice": "£1,399.99",
+            "image": "/assets/understanding-node.jpg",
+            "description":"Build an Amazing CMS system - Using Express + MongoDB + Bootstrap - Handlebars + Authentication + AJAX + Deployment",
+            "whatYouWillLearn": [
+              " build Amazing NodeJS applications like the CMS we build here using Express, MongoDB and more",
+              "To deploy Nodejs Apps on the Cloud",
+              " To create Login and Registration system using NodeJS",
+              "To use Mongoose (ODM) - very similar to ORM"
+            ],
+            "hours": "50",
+             "resources": "135"
+          },
+          {
+            "id": "The Complete Bootcamp",
+            "title": "Node.js, Express, MongoDB & More: The Complete Bootcamp",
+            "instructor": "Jonas Schmedtmann",
+            "rating": 4.6,
+            "learners": "25,846",
+            "price": "£299.99",
+            "originalPrice": "£1,899.99",
+            "image": "/assets/node-bootcamp.jpg",
+            "bestseller": true,
+            "description":"Master unit testing with NodeJs, Typescript, Jest and React. Write top quality Typescript and NodeJs software with Jest",
+            "whatYouWillLearn": [
+              "Basics of TypeScript unit testing with Jest",
+               "Integration tests with TypeScript",
+               "Test Driven Development (TDD) with Jest",
+               "Unit testing React with TypeScript and Jest",
+               "CICD with GitHub Actions and Docker",
+               "Jest - the basics: hooks, assertions, matchers"
+            ],
+            "hours": "30",
+             "resources": "50"
+          },
+          {   
+            "id": "Complete NodeJS Developer ",
+            "title": "Complete NodeJS Developer (GraphQL, MongoDB, + more)",
+            "instructor": "Andrei Neagoie, Adam Odziemkowski",
+            "rating": 4.5,
+            "learners": "5,148",
+            "price": "£249.99",
+            "originalPrice": "£1,699.99",
+            "description":" Build and deploy fullstack web apps with NodeJS, React, Redux, Express, and MongoDB.",
+            "image": "/assets/complete-nodejs-developer.jpg",
+            "whatYouWillLearn": [
+             " reate boilerplate starter projects with React, Redux, Express, and Mongo",
+              "Understand common web technologies and design patterns to connect them together",
+              "Master deployment techniques between the production and development environments",
+              "Make an app with Google OAuth authentication",
+              "Learn to effectively create and send emails from a backend server",
+              "Accept and process credit card payments from users"
+            ],
+            "hours": "230",
+             "resources": "110"
+          }
+        ],
+        "learner": [
+            
+                {
+                    "title": "The Complete 2024 Web Development Bootcamp",
+                    "instructor": "Dr. Angela Yu",
+                    "rating": 4.7,
+                    "learners": "(410,797)",
+                    "price": "£299.99",
+                    "originalPrice": "£1,799.99",
+                    "bestseller": true,
+                    "image": "/assets/courses1.jpg"
+                  },
+                  {
+        
+
+                    "title": "The Web Developer Bootcamp 2024",
+                    "instructor": "Colt Steele",
+                    "rating": 4.7,
+                    "learners": "(276,871)",
+                    "price": "£249.99",
+                    "originalPrice": "£1,609.99",
+                    "image": "/assets/courses2.jpg"
+                  },
+                  {
+        
+
+                    "title": "[NEW] Ultimate AWS Certified Cloud Practitioner CLF-C02",
+                    "instructor": "Stephane Maarek | AWS Certified Cloud...",
+                    "rating": 4.7,
+                    "learners": "(225,698)",
+                    "price": "£1,699.99",
+                    "bestseller": true,
+                    "image": "/assets/it_certification1.jpg"
+                  },
+                  {
+        
+
+                    "title": "AWS Serverless APIs & Apps - A Complete Introduction",
+                    "instructor": "Academind by Maximilian Schwarzmüller",
+                    "rating": 4.6,
+                    "learners": "(13,807)",
+                    "price": "£2,099.99",
+                    "bestseller": true,
+                    "image": "/assets/it_certification4.jpg"
+                  },
+                  {
+        
+
+                    "title": "Leadership: You Can Speak Like a Leader",
+                    "instructor": "TJ Walker, Media Training Worldwide...",
+                    "rating": 4.5,
+                    "learners": "(2,653)",
+                    "price": "£1,099.99",
+                    "image": "/assets/leadership2.jpg"
+                  },
+                  {
+        
+
+                    "title": "Fundamentals of Successful Leadership - Leading with Impact",
+                    "instructor": "Baba Oyewole, Helen Hicks",
+                    "rating": 4.4,
+                    "learners": "(937)",
+                    "price": "£399.99",
+                    "image": "/assets/leadership3.jpg"
+                  },
+                  {
+        
+
+                    "title": "The Complete Communication Skills Master Class for Life",
+                    "instructor": "TJ Walker",
+                    "rating": 4.5,
+                    "learners": "(29,429)",
+                    "price": "£1,299.99",
+                    "bestseller": true,
+                    "image": "/assets/communication1.jpg"
+                  },
+                  {
+        
+
+                    "title": "Communication Skills for Beginners",
+                    "instructor": "TJ Walker",
+                    "rating": 4.5,
+                    "learners": "(7,062)",
+                    "price": "£899.99",
+                    "image": "/assets/communication2.jpg"
+                  }
+        ],
+        "webDevelopment": [
+
+            {
+
+              "id":"Javascript for Beginners",
+              "title": "Javascript for Beginners",
+              "instructor": "SkillSprints Inc.",
+              "rating": 4.4,
+              "learners": "3,283",
+              "price": "£249.99",
+              "originalPrice": "£1,199.99",
+              "image": "/assets/javascript-for-beginners.jpg"
+            },
+            {
+  
+
+              "title": "Become a Certified Web Developer: HTML, CSS and More",
+              "instructor": "SkillSprints Inc., Mark Lassoff",
+              "rating": 4.5,
+              "learners": "3,922",
+              "price": "£299.99",
+              "originalPrice": "£1,699.99",
+              "image": "/assets/certified-web-developer.jpg"
+            },
+            {
+  
+
+              "title": "AJAX Development",
+              "instructor": "SkillSprints Inc., Mark Lassoff",
+              "rating": 4.5,
+              "learners": "1,154",
+              "price": "£249.99",
+              "originalPrice": "£699.99",
+              "image": "/assets/ajax-development.jpg"
+            },
+            {
+  
+
+              "title": "The Complete 2020 Fullstack Web Developer Course",
+              "instructor": "Kalob Taulien",
+              "rating": 4.5,
+              "learners": "7,514",
+              "price": "£299.99",
+              "originalPrice": "£1,699.99",
+              "image": "/assets/fullstack-web-development.jpg"
+            },
+            {
+  
+
+              "title": "1 Hour HTML",
+              "instructor": "John Bura",
+              "rating": 4.5,
+              "learners": "6,366",
+              "price": "£249.99",
+              "originalPrice": "£549.99",
+              "image": "/assets/1-hour-html.jpg"
+            }
+       ],
+         "topics": [
+        "React JS",
+        "React Hooks",
+        "Redux Framework",
+        "MERN Stack",
+        "CSS",
+        "Web Development",
+        "JavaScript",
+        "Node.Js",
+        "MongoDB",
+        "React Native"
+        ]
+    
+      }
+  

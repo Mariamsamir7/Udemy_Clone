@@ -1,0 +1,277 @@
+{
+    "Web Development": [
+      {
+        "title": "The Complete 2024 Web Development Bootcamp",
+        "instructor": "Dr. Angela Yu",
+        "rating": 4.7,
+        "learners": "(410,797)",
+        "price": "£299.99",
+        "originalPrice": "£1,799.99",
+        "bestseller": true,
+        "image": "/assets/courses1.jpg"
+      },
+      {
+        "title": "The Web Developer Bootcamp 2024",
+        "instructor": "Colt Steele",
+        "rating": 4.7,
+        "learners": "(276,871)",
+        "price": "£249.99",
+        "originalPrice": "£1,609.99",
+        "image": "/assets/courses2.jpg"
+      },
+      {
+        "title": "Web Development Masterclass - Online Certification Course",
+        "instructor": "YouAccel Training",
+        "rating": 4.3,
+        "learners": "(10,009)",
+        "price": "£1,099.99",
+        "originalPrice": "£1,609.99",
+        "image": "/assets/courses3.jpg"
+      },
+      {
+        "title": "Web Development Masterclass - Online Certification Course",
+        "instructor": "YouAccel Training",
+        "rating": 4.3,
+        "learners": "(10,009)",
+        "price": "£1,099.99",
+        "originalPrice": "£1,609.99",
+        "image": "/assets/courses4.jpg"
+      },{
+        "title": "Web Development Masterclass - Online Certification Course",
+        "instructor": "YouAccel Training",
+        "rating": 4.3,
+        "learners": "(10,009)",
+        "price": "£1,099.99",
+        "originalPrice": "£1,609.99",
+        "image": "/assets/courses5.jpg"
+      }
+    ],
+        "IT Certifications": [
+          {
+            "title": "[NEW] Ultimate AWS Certified Cloud Practitioner CLF-C02",
+            "instructor": "Stephane Maarek | AWS Certified Cloud...",
+            "rating": 4.7,
+            "learners": "(225,698)",
+            "price": "£1,699.99",
+            "bestseller": true,
+            "image": "/assets/it_certification1.jpg"
+          },
+          {
+            "title": "Amazon Web Services (AWS) Certified - 4 Certifications!",
+            "instructor": "BackSpace Academy, Paul Coady",
+            "rating": 4.5,
+            "learners": "(23,945)",
+            "price": "£1,699.99",
+            "image": "/assets/it_certification2.jpg"
+          },
+          {
+            "title": "AWS Certified Cloud Practitioner (CLF-C02) Exam Training",
+            "instructor": "Neal Davis | AWS Certified Solutions...",
+            "rating": 4.6,
+            "learners": "(36,217)",
+            "price": "£1,699.99",
+            "image": "/assets/it_certification3.jpg"
+          },
+          {
+            "title": "AWS Serverless APIs & Apps - A Complete Introduction",
+            "instructor": "Academind by Maximilian Schwarzmüller",
+            "rating": 4.6,
+            "learners": "(13,807)",
+            "price": "£2,099.99",
+            "bestseller": true,
+            "image": "/assets/it_certification4.jpg"
+          },
+          {
+            "title": "AWS Serverless APIs & Apps - A Complete Introduction",
+            "instructor": "Academind by Maximilian Schwarzmüller",
+            "rating": 4.7,
+            "learners": "(1,807)",
+            "price": "£899.99",
+            "bestseller": true,
+            "image": "/assets/it_certification3.jpg"
+          },
+          {
+            "title": "AWS Serverless APIs & Apps - A Complete Introduction",
+            "instructor": "Academind by Maximilian Schwarzmüller",
+            "rating": 4.2,
+            "learners": "(18,807)",
+            "price": "£659.99",
+            "bestseller": true,
+            "image": "/assets/it_certification6.jpg"
+          }
+        ],
+            "Leadership": [
+              {
+                "title": "Leadership: Practical Leadership Skills",
+                "instructor": "Chris Croft",
+                "rating": 4.6,
+                "learners": "(87,722)",
+                "price": "£1,699.99",
+                "bestseller": true,
+                "image": "/assets/leadership1.jpg"
+              },
+              {
+                "title": "Leadership: You Can Speak Like a Leader",
+                "instructor": "TJ Walker, Media Training Worldwide...",
+                "rating": 4.5,
+                "learners": "(2,653)",
+                "price": "£1,099.99",
+                "image": "/assets/leadership2.jpg"
+              },
+              {
+                "title": "Fundamentals of Successful Leadership - Leading with Impact",
+                "instructor": "Baba Oyewole, Helen Hicks",
+                "rating": 4.4,
+                "learners": "(937)",
+                "price": "£399.99",
+                "image": "/assets/leadership3.jpg"
+              },
+              {
+                "title": "Executive Diploma in Leadership",
+                "instructor": "MTF Institute of Management...",
+                "rating": 4.2,
+                "learners": "(519)",
+                "price": "£399.99",
+                "image": "/assets/leadership4.jpg"
+              },
+              {
+                "title": "Executive Diploma in Leadership",
+                "instructor": "MTF Institute of Management...",
+                "rating": 4.4,
+                "learners": "(519)",
+                "price": "£675.99",
+                "image": "/assets/leadership5.jpg"
+              }
+            ],
+        "Data Science": [
+          {
+            "title": "ChatGPT Complete Guide: Learn Generative AI, ChatGPT & More",
+            "instructor": "Julian Melanson, Benza Maman, Leap...",
+            "rating": 4.6,
+            "learners": "(40,242)",
+            "price": "£1,199.99",
+            "bestseller": true,
+            "image": "/assets/datascience1.jpg"
+          },
+          {
+            "title": "The Complete AI-Powered Copywriting Course & ChatGPT...",
+            "instructor": "Ing. Tomas Moravek, Learn Digital...",
+            "rating": 4.5,
+            "learners": "(1,681)",
+            "price": "£1,099.99",
+            "image": "/assets/datascience2.jpg"
+          },
+          {
+            "title": "ChatGPT Masterclass: The Ultimate Beginner's Guide!",
+            "instructor": "Chetan Pujari",
+            "rating": 4.3,
+            "learners": "(430)",
+            "price": "£399.99",
+            "image": "/assets/datascience3.jpg"
+          },
+          {
+            "title": "ChatGPT & Midjourney & Gemini: Digital Marketing Assistants",
+            "instructor": "Anton Voroniuk, Anton Voroniuk Support...",
+            "rating": 4.3,
+            "learners": "(415)",
+            "price": "£399.99",
+            "image": "/assets/datascience4.jpg"
+          },
+          {
+            "title": "ChatGPT Master:Complete OpenAI ChatGPT Course ",
+            "instructor": "Anton Voroniuk, Anton Voroniuk Support...",
+            "rating": 4.5,
+            "learners": "(415)",
+            "price": "£429.99",
+            "image": "/assets/datascience5.jpg"
+          },
+          {
+            "title": "Master Any Language With ChatGPT:Boost your Language  ",
+            "instructor": "Anton Voroniuk, Anton Voroniuk Support...",
+            "rating": 4.7,
+            "learners": "(415)",
+            "price": "£879.99",
+            "image": "/assets/datascience6.jpg"
+          }
+        ],
+            "Communication": [
+              {
+                "title": "The Complete Communication Skills Master Class for Life",
+                "instructor": "TJ Walker",
+                "rating": 4.5,
+                "learners": "(29,429)",
+                "price": "£1,299.99",
+                "bestseller": true,
+                "image": "/assets/communication1.jpg"
+              },
+              {
+                "title": "Communication Skills for Beginners",
+                "instructor": "TJ Walker",
+                "rating": 4.5,
+                "learners": "(7,062)",
+                "price": "£899.99",
+                "image": "/assets/communication2.jpg"
+              },
+              {
+                "title": "Winning Communication Skills for Telephone, Conference Calls",
+                "instructor": "TJ Walker, Media Training Worldwide...",
+                "rating": 4.4,
+                "learners": "(2,914)",
+                "price": "£899.99",
+                "image": "/assets/communication3.jpg"
+              },
+              {
+                "title": "Public Relations: Media Crisis Communications",
+                "instructor": "TJ Walker, Media Training Worldwide...",
+                "rating": 4.6,
+                "learners": "(3,090)",
+                "price": "£549.99",
+                "bestseller": true,
+                "image": "/assets/communication4.jpg"
+              },
+              {
+                "title": "Media Crisis Communications",
+                "instructor": "TJ Walker, Media Training Worldwide...",
+                "rating": 4.3,
+                "learners": "(12,10)",
+                "price": "£5749.99",
+                "bestseller": true,
+                "image": "/assets/communication5.jpg"
+              }
+            ],
+                "Business Analytics & Intelligence": [
+                  {
+                    "title": "Microsoft Excel - Excel from Beginner to Advanced",
+                    "instructor": "Kyle Pew, Office Newb",
+                    "rating": 4.7,
+                    "learners": "(461,608)",
+                    "price": "£1,199.99",
+                    "bestseller": true,
+                    "image": "/assets/business_analytics1.jpg"
+                  },
+                  {
+                    "title": "Zero to Hero in Microsoft Excel: Complete Excel guide 2024",
+                    "instructor": "Start-Tech Academy",
+                    "rating": 4.6,
+                    "learners": "(27,310)",
+                    "price": "£1,099.99",
+                    "image": "/assets/business_analytics2.jpg"
+                  },
+                  {
+                    "title": "Microsoft Excel Weekender Crash Course",
+                    "instructor": "Start-Tech Academy",
+                    "rating": 4.4,
+                    "learners": "(8,288)",
+                    "price": "£399.99",
+                    "image": "/assets/business_analytics3.jpg"
+                  },
+                  {
+                    "title": "Microsoft Excel - Learn MS EXCEL For DATA Analysis",
+                    "instructor": "Yassin Marco",
+                    "rating": 4.3,
+                    "learners": "(5,756)",
+                    "price": "£799.99",
+                    "image": "/assets/business_analytics4.jpg"
+                  }
+                ]
+  }

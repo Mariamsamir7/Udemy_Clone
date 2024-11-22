@@ -1,0 +1,47 @@
+[
+    {
+      "name": "Personal Plan",
+      "type": "For you",
+      "price": "Starting at £204.00 per month",
+      "billingInfo": "Billed monthly or annually. Cancel anytime.",
+      "buttonText": "Try it free →",
+      "features": [
+        "Access to 12,000+ top courses",
+        "Certification prep",
+        "Goal-focused recommendations",
+        "AI-powered coding exercises"
+      ]
+    },
+    {
+      "name": "Team Plan",
+      "type": "For your team",
+      "price": "£330.00 a month per user",
+      "billingInfo": "Billed annually. Cancel anytime.",
+      "buttonText": "Try it free →",
+      "features": [
+        "Access to 12,000+ top courses",
+        "Certification prep",
+        "Goal-focused recommendations",
+        "AI-powered coding exercises",
+        "Analytics and adoption reports"
+      ]
+    },
+    {
+      "name": "Enterprise Plan",
+      "type": "For your whole organization",
+      "price": "Contact sales for pricing",
+      "billingInfo": "",
+      "buttonText": "Request a demo →",
+      "features": [
+        "Access to 27,000+ top courses",
+        "Certification prep",
+        "Goal-focused recommendations",
+        "AI-powered coding exercises",
+        "Advanced analytics and insights",
+        "Dedicated customer success team",
+        "International course collection featuring 15 languages",
+        "Customizable content",
+        "Hands-on tech training with add-on"
+      ]
+    }
+  ]

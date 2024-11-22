@@ -1,0 +1,35 @@
+
+[
+    {
+      "text": "Udemy was rated the most popular online course or certification program for learning how to code according to StackOverflow's 2023 Developer survey.",
+      "author": "StackOverflow",
+      "responses": "37,076 responses collected",
+      "linkText": "View Web Development courses",
+      "linkUrl": "#",
+      "image": "/assets/stackoverflow.svg"
+    },
+    {
+      "text": "Udemy was truly a game-changer and a great guide for me as we brought Dimensional to life.",
+      "author": "Alvin Lim",
+      "position": "Technical Co-Founder, CTO at Dimensional",
+      "linkText": "View this iOS & Swift course",
+      "linkUrl": "#",
+      "image": "/assets/alvin.png"
+    },
+    {
+      "text": "Udemy gives you the ability to be persistent. I learned exactly what I needed to know in the real world. It helped me sell myself to get a new role.",
+      "author": "William A. Wachlin",
+      "position": "Partner Account Manager at Amazon Web Services",
+      "linkText": "View this AWS course",
+      "linkUrl": "#",
+      "image": "/assets/william.png"
+    },
+    {
+      "text": "With Udemy Business employees were able to marry the two together, technology and consultant soft skills... to help drive their careers forward.",
+      "author": "Ian Stevens",
+      "position": "Head of Capability Development, North America at Publicis Sapient",
+      "linkText": "Read full story",
+      "linkUrl": "#",
+      "image": "/assets/ian.png"
+    }
+  ]
